@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec San Francisco 2024
+title: 2025 Boston Application Security Conference
 layout: event-x
 
 ---
