@@ -1,8 +1,7 @@
- - #logo: /assets/images/sponsors/AppSentinelsNew-logo-mnemonic.png
-   #name: AppSentinels
-   #url: https://appsentinels.ai/
-   #backgroundSize: 125px
-   #type: Start-up
- - #logo: /assets/images/sponsors/Deepfactor.png
+ - logo: /assets/images/sponsors/AppSentinelsNew-logo-mnemonic.png
+   name: AppSentinels
+   url: https://appsentinels.ai/
+   backgroundSize: 125px
+   type: Start-up
  
    
