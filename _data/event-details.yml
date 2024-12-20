@@ -9,7 +9,7 @@ logo_url: https://owasp.org/
 #location: 5 Embarcadero Center, San Francisco, CA 94111, USA
 background: BASCBannerShort.png
 background-style: ''
-background-padding: 0em 2em 0em 2em
+background-padding: 0em 0em 0em 2em
 #keynotestextcolor: fff
 color: 242158
 #analytics:
