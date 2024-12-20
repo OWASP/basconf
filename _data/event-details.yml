@@ -12,8 +12,8 @@ background-style: ''
 background-padding: 0em 2em 0em 2em
 #keynotestextcolor: fff
 color: 242158
-#analytics: 
-registration_open: false
+#analytics:
+#registration_open: false
 pitch: >-
    2025 BASC Security Conference is coming soon!
 #image_attribution: Hugo Costa
