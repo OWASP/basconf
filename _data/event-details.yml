@@ -8,7 +8,7 @@ logo_url: https://owasp.org/
 #venue: Hyatt Regency San Francisco
 #location: 5 Embarcadero Center, San Francisco, CA 94111, USA
 background: BASCCoverPhoto.png
-background-style: 'width: 50%; height: 50%;'
+background-style: ''
 background-padding: 0em 2em 0em 2em
 #keynotestextcolor: fff
 color: 242158
