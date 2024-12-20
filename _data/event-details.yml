@@ -15,5 +15,7 @@ color: 242158
 #analytics:
 #registration_open: false
 pitch: >-
-   2025 BASC Security Conference is coming soon!
+<p><b>The Boston Application Security Conference</b> (BASC) is an annual conference held by the Boston chapter of the Open Web Application Security Project (OWASP) that includes presenters and workshops focused on current trends in application security.</p>
+<p>OWASP® is a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. To learn more, visit https://www.owasp.org.</p>
+<p>BASC 2025 </br><ul><li><b>Date</b> - April 5, 2025</li><li><b>Venue</b> - Microsoft Burlington</li><li><b>Address</b> - 5 Wayside Rd, Burlington, MA 01803</ul></p>
 #image_attribution: Hugo Costa
