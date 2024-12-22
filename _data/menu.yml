@@ -1,9 +1,11 @@
 - title: HOME
   url: /
-- title: CALL FOR PRESENTERS 
-  url: /
+- title: CALL FOR PRESENTERS
+  url: https://owasp.submittable.com/submit/312789/2025-basc-call-for-papers-april-5-2025
+- title: CALL FOR WORKSHOP 
+  url: https://owasp.submittable.com/submit/281645/2024-basc-call-for-workshops-april-6-2024
 - title: CALL FOR SPONSORS
-  url: /
+  url: /sponsorship/
 - title: CODE OF CONDUCT
   url: /
 #- title: EXHIBIT & SPONSOR 
