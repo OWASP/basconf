@@ -26,10 +26,11 @@ pitch: >-
         <img src="/assets/images/heeler-logo.png" width="600px"><br />
         <br />
         <h2>Gold</h2><br />
-        <img src="/assets/images/blackduck-logo.svg" width="400px"><img src="/assets/images/defectdojo-logo.jpg" width="400px"><br />
+        <img src="/assets/images/blackduck-logo.svg" width="500px" style="padding-right: 25px"><img src="/assets/images/defectdojo-logo.jpg" width="500px"><br />
         <br />
         <h2>Silver</h2>
         <br />
+        <img src="/assets/images/semgrep-logo.svg" width="400px" style="padding-right: 25px">
         </center>
 
 #image_attribution: Hugo Costa
