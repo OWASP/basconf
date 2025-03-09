@@ -19,17 +19,17 @@ pitch: >-
     <br />
     <p>
         <h1>Sponsors</h1><br />
+        <center>
         <h2>Platinum</h2><br />
-        <img src="/assets/images/aikido-logo.svg" width="400px"><br />
-        <img src="/assets/images/arnica-logo.svg" width="400px"><br />
-        <img src="/assets/images/heeler-logo.png" width="400px"><br />
+        <img src="/assets/images/aikido-logo.svg" width="600px"><br />
+        <img src="/assets/images/arnica-logo.svg" width="600px"><br />
+        <img src="/assets/images/heeler-logo.png" width="600px"><br />
         <br />
         <h2>Gold</h2><br />
-        <img src="/assets/images/blackduck-logo.svg" width="400px"><br />
-        <img src="/assets/images/defectdojo-logo.jpg" width="400px"><br />
+        <img src="/assets/images/blackduck-logo.svg" width="400px"><img src="/assets/images/defectdojo-logo.jpg" width="400px"><br />
         <br />
         <h2>Silver</h2>
         <br />
-
+        </center>
 
 #image_attribution: Hugo Costa
