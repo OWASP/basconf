@@ -1,9 +1,9 @@
 title: 2025 Boston Application Security Conference
-#pricing-title: Pricing
+pricing-title: $30
 dates: April 5
 #training: September 23-25
-#conference: September 26-27
-#registration_url: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+conference: April 5, 2025
+registration_url: https://www.eventbrite.com/e/owasp-basc-2025-tickets-1277927157529?aff=oddtdtcreator
 logo_url: https://owasp.org/
 venue: Microsoft Burlington
 location: 5 Wayside Rd, Burlington, MA 01803
@@ -13,7 +13,7 @@ background-padding: 0em 0em 0em 2em
 #keynotestextcolor: fff
 color: 242158
 #analytics:
-#registration_open: false
+registration_open: true
 pitch: >- 
     <p><h2>The Boston Application Security Conference</h2> (BASC) is an annual conference held by the Boston chapter of the Open Web Application Security Project (OWASP) that includes presenters and workshops focused on current trends in application security.</p><p>OWASP® is a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. To learn more, visit https://www.owasp.org.</p><p><ul><b>BASC 2025</b><li><b>Date</b> - April 5, 2025</li><li><b>Venue</b> - Microsoft Burlington</li><li><b>Address</b> - 5 Wayside Rd, Burlington, MA 01803
     <br />
