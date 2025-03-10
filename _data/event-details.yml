@@ -20,15 +20,18 @@ pitch: >-
     <p>
         <h1>Sponsors</h1><br />
         <center>
-        <h2>Platinum</h2><br />
+        <h2><font color=E5E4E2>Platinum</font</h2><br />
         <img src="/assets/images/aikido-logo.svg" width="600px"><br />
         <img src="/assets/images/arnica-logo.svg" width="600px"><br />
         <img src="/assets/images/heeler-logo.png" width="600px"><br />
+        <img src="/assets/images/runsecurity-logo.jpg" width="600px"><br />
         <br />
-        <h2>Gold</h2><br />
-        <img src="/assets/images/blackduck-logo.svg" width="500px" style="padding-right: 25px"><img src="/assets/images/defectdojo-logo.jpg" width="500px"><br />
+        <h2><font color=FFD700>Gold</font></h2><br />
+        <img src="/assets/images/blackduck-logo.svg" width="500px"><br />
+        <img src="/assets/images/corellium-logo.jpg" width="500px"><br />
+        <img src="/assets/images/defectdojo-logo.jpg" width="500px"><br />
         <br />
-        <h2>Silver</h2>
+        <h2><font color=C0C0C0>Silver</font></h2>
         <br />
         <img src="/assets/images/semgrep-logo.png" width="400px" style="padding-right: 25px">
         </center>
