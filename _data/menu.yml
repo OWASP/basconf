@@ -1,9 +1,7 @@
 - title: HOME
   url: /
-- title: CALL FOR PRESENTERS
-  url: https://owasp.submittable.com/submit/312789/2025-basc-call-for-papers-april-5-2025
-- title: CALL FOR WORKSHOP 
-  url: https://owasp.submittable.com/submit/312790/2025-basc-call-for-workshops-april-5-2025
+- title: Schedule
+  url: /schedule/
 - title: CODE OF CONDUCT
   url: https://owasp.org/www-policy/operational/code-of-conduct
 #- title: EXHIBIT & SPONSOR 
