@@ -41,20 +41,24 @@ pitch: >-
         <img src="/assets/images/blackduck-logo.svg" width="500px"><br />
         <img src="/assets/images/corellium-logo.png" width="500px"><br />
         <img src="/assets/images/defectdojo-logo.jpg" width="500px"><br />
-        <img src="/assets/images/jit-logo.png" width="300px"><br />
+        <img src="/assets/images/jit-logo.png" width="100px"><br />
         <br />
         <h2><font color=C0C0C0>Silver</font></h2>
         <br />
         <img src="/assets/images/semgrep-logo.png" width="400px" style="padding-right: 25px">
          <br />
-        <h2><font>Classic Arcade</font></h2>
-        <br />
-        <img src="/assets/images/quokka-logo.png" width="500px" style="padding-right: 25px">
-        <br />
-         <h2><font>Venue</font></h2>
-        <br />
-        <img src="/assets/images/microsoft-logo.png" width="500px" style="padding-right: 25px">
-        <br />
+        <p>
+            <h2><font>Classic Arcade</font></h2>
+            <br />
+            <img src="/assets/images/quokka-logo.png" width="500px" style="padding-right: 25px">
+            <br />
+        </p>
+        <p>
+            <h2><font>Venue</font></h2>
+            <br />
+            <img src="/assets/images/microsoft-logo.png" width="500px" style="padding-right: 25px">
+            <br />
+        </p>
         </center>
     </p>
 #image_attribution: Hugo Costa
