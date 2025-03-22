@@ -41,16 +41,19 @@ pitch: >-
         <img src="/assets/images/runsecurity-logo.jpg" width="600px"><br />
         <br />
         <h2><font color=FFD700>Gold</font></h2><br />
+        <img src="/assets/images/appsentinels-logo.png" width="500px"><br />
         <img src="/assets/images/blackduck-logo.svg" width="500px"><br />
         <img src="/assets/images/corellium-logo.png" width="500px"><br />
         <img src="/assets/images/defectdojo-logo.jpg" width="500px"><br />
         <img src="/assets/images/jit-logo.png" width="100px"><br />
+        <img src="/assets/images/qwiet-ai-logo.png" width="100px"><br />
         <br />
         <h2><font color=C0C0C0>Silver</font></h2>
         <br />
+        <img src="/assets/images/cobalt-logo.png" width="400px" style="padding-right: 25px">
         <img src="/assets/images/semgrep-logo.png" width="400px" style="padding-right: 25px">
-         <br />
-         <br />
+        <br />
+        <br />
     </p>
     <p>
         <h2><font>Classic Arcade</font></h2>
