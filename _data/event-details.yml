@@ -1,13 +1,13 @@
-title: 2025 Boston Application Security Conference
-pricing-title: $30
-price: $30
+title: 2026 Boston Application Security Conference
+pricing-title: TBD
+price: TBD
 dates: April 5
 #training: September 23-25
-conference: April 5, 2025
-registration_url: https://www.eventbrite.com/e/owasp-basc-2025-tickets-1277927157529?aff=oddtdtcreator
+conference: April 11, 2026
+#registration_url: https://www.eventbrite.com/e/owasp-basc-2025-tickets-1277927157529?aff=oddtdtcreator
 logo_url: https://owasp.org/
-venue: Microsoft Burlington
-location: 5 Wayside Rd, Burlington, MA 01803
+venue: Boston Marriot Cambridge 
+location: 50 Broadway, Cambridge, MA 02142
 background: BASC2025LogoBanner.png
 background-style: ''
 background-padding: 0em 0em 0em 2em
@@ -19,53 +19,23 @@ pitch: >-
     <p>
     <h2>The Boston Application Security Conference</h2>
     (BASC) is an annual conference held by the Boston chapter of the Open Web Application Security Project (OWASP) that includes presenters and workshops focused on current trends in application security.</p><p>OWASP® is a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. To learn more, visit https://www.owasp.org.</p>
+    
     <p>
-        BASC is looking for volunteers. If you are interested, sign up here: <a href="https://docs.google.com/forms/d/e/1FAIpQLSduWWT9O-n8XmBjkigegCJe_mOFkm8u0yI1seYxU8wQAAtukw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSduWWT9O-n8XmBjkigegCJe_mOFkm8u0yI1seYxU8wQAAtukw/viewform</a>
-    </p>
-    <p>
-        <b>BASC 2025</b>
+        <b>BASC 2026</b>
         <ul style="list-style-type:square">
-            <li><b>Date</b> - April 5, 2025</li>
-            <li><b>Price</b> - $30</li>
-            <li><b>Venue</b> - Microsoft Burlington</li>
-            <li><b>Address</b> - 5 Wayside Rd, Burlington, MA 01803</li>
+            <li><b>Date</b> - April 11, 2026</li>
+            <li><b>Venue</b> - Boston Marriot Cambridge</li>
+            <li><b>Address</b> - 50, Broadway, Cambridge MA 02142</li>
         </ul>
     </p>
     <center>
     <p>
-        <h1>Sponsors</h1><br />
-        <h2><font color=E5E4E2>Platinum</font></h2><br />
-        <img src="/assets/images/aikido-logo.svg" width="600px"><br />
-        <img src="/assets/images/arnica-logo.svg" width="600px"><br />
-        <img src="/assets/images/heeler-logo.png" width="600px"><br />
-        <img src="/assets/images/runsecurity-logo.jpg" width="600px"><br />
-        <br />
-        <h2><font color=FFD700>Gold</font></h2><br />
-        <img src="/assets/images/appsentinels-logo.png" width="500px"><br />
-        <img src="/assets/images/blackduck-logo.svg" width="500px"><br />
-        <img src="/assets/images/corellium-logo.png" width="500px"><br />
-        <img src="/assets/images/defectdojo-logo.jpg" width="500px"><br />
-        <img src="/assets/images/jit-logo.png" width="100px"><br />
-        <img src="/assets/images/qwiet-ai-logo.png" width="500px"><br />
-        <br />
-        <h2><font color=C0C0C0>Silver</font></h2>
-        <br />
-        <img src="/assets/images/cobalt-logo.svg" width="400px" style="padding-right: 25px"><br />
-        <img src="/assets/images/semgrep-logo.png" width="400px" style="padding-right: 25px"><br />
-        <img src="/assets/images/snyk-logo.png" width="400px" style="padding-right: 25px">
-        <br />
-        <br />
-    </p>
-    <p>
-        <h2><font>Classic Arcade</font></h2>
-        <img src="/assets/images/quokka-logo.png" width="500px" style="padding-right: 25px">
-        <br />
-        <br />
-    </p>
-    <p>
-        <h2><font>Venue</font></h2>
-        <img src="/assets/images/microsoft-logo.png" width="500px" style="padding-right: 25px">
-        <br />
+        Key Dates for Conference
+        <li>Call for Papers & Workshop Opens - <b> Nov 1st 2025 </b> </li>
+        <li>Call for Papers & Workshop Closes - <b> January 11th 2026 </b> </li>
+        <li>Speakers Notified - <b> Week of January 26, 2026 </b> </li>
+        <li>Program Announced - <b> Week of February 9, 2026 </b> </li>
+        <li>Conference Date - <b> April 11th, 2026 </b> </li>
     </p>
     </center>
 #image_attribution: Hugo Costa
