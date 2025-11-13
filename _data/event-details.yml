@@ -10,6 +10,7 @@ venue: Boston Marriot Cambridge
 location: 50 Broadway, Cambridge, MA 02142
 background: BASC2025LogoBanner.png
 background-style: ''
+background-size: 800px
 background-padding: 0em 0em 0em 2em
 #keynotestextcolor: fff
 color: 242158
@@ -25,7 +26,7 @@ pitch:
         <ul style="list-style-type:square">
             <li><b>Date</b> - April 11, 2026</li>
             <li><b>Venue</b> - Boston Marriot Cambridge</li>
-            <li><b>Address</b> - 50, Broadway, Cambridge MA 02142</li>
+            <li><b>Address</b> - 50 Broadway, Cambridge MA 02142</li>
         </ul>
     </p>
     <center>
@@ -35,7 +36,7 @@ pitch:
         Call for Papers & Workshop Closes - <b> January 11th 2026 </b> <br>
         Speakers Notified - <b> Week of January 26, 2026 </b> <br>
         Program Announced - <b> Week of February 9, 2026 </b> <br>
-        Conference Date - <b> April 11th, 2026 </b> </br>
+        Conference Date - <b> April 11th, 2026 </b> <br>
     </p>
     </center>
 #image_attribution: Hugo Costa
