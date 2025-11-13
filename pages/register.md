@@ -1,3 +1,4 @@
+/*
 ---
 
 title: Event Registration
@@ -5,6 +6,7 @@ layout: event_noheader
 permalink: /register/
 
 ---
+*/
 
 ## Registration 
 {% if site.data.event-details.registration_open %}
