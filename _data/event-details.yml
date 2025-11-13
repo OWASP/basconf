@@ -1,6 +1,6 @@
 title: 2026 Boston Application Security Conference
-pricing-title: TBD
-price: TBD
+#pricing-title: TBD
+#price: TBD
 dates: April 11
 #training: September 23-25
 conference: April 11, 2026
@@ -9,7 +9,7 @@ logo_url: https://owasp.org/
 venue: Boston Marriot Cambridge 
 location: 50 Broadway, Cambridge, MA 02142
 background: BASC2025LogoBanner.png
-background-style: ''
+#background-style: ''
 background-size: 600px 200px
 background-padding: 0em 0em 0em 2em
 #keynotestextcolor: fff
@@ -17,6 +17,8 @@ color: 242158
 #analytics:
 #registration_open: false
 pitch:  
+    <center>
+
     <p>
     <h2>The Boston Application Security Conference</h2>
     (BASC) is an annual conference held by the Boston chapter of the Open Web Application Security Project (OWASP) that includes presenters and workshops focused on current trends in application security.</p><p>OWASP® is a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. To learn more, visit https://www.owasp.org.</p>
@@ -29,8 +31,7 @@ pitch:
             <li><b>Address</b> - 50 Broadway, Cambridge MA 02142</li>
         </ul>
     </p>
-    <center>
-    <p>
+        <p>
         Key Dates for Conference <br>
         Call for Papers & Workshop Opens - <b> Nov 1st 2025 </b> <br>
         Call for Papers & Workshop Closes - <b> January 11th 2026 </b> <br>
