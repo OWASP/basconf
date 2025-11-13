@@ -6,5 +6,9 @@ permalink: /CFPCFW/
 
 ---
 
- OWASP BASC 2026 Call For Papers and Workshops is now Open!
- Please submit your talk/workshop in <a href="https://sessionize.com/owasp-basc-2026">Sessionize</a>
+ <h1>OWASP BASC 2026 Call For Papers and Workshops is now Open! </h1>
+ <p> <b>This year's theme is Trends & Innovation! We are looking for talks across three different tracks - Leadership, Development & Research </b> </p>
+ <p>
+  <h2>Please submit your talk/workshop in <a href="https://sessionize.com/owasp-basc-2026">Sessionize</a>
+</h2>
+ </p>
