@@ -8,7 +8,7 @@ conference: April 11, 2026
 logo_url: https://owasp.org/
 venue: Boston Marriot Cambridge 
 location: 50 Broadway, Cambridge, MA 02142
-background: BASC2025LogoBanner.png
+background-image: image-url('BASC2025LogoBanner.png')
 #background-style: ''
 background-size: 600px 200px
 background-padding: 0em 0em 0em 2em
