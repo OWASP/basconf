@@ -4,10 +4,10 @@
   url: /CFPCFW/
 - title: CALL FOR SPONSORS
   url: /sponsorship/
-- title: SCHEDULE
-  url: /schedule/
+#- title: SCHEDULE
+#  url: /schedule/
 - title: CODE OF CONDUCT
-  url: https://owasp.org/www-policy/operational/code-of-conduct
+  url: /event_codeofconduct/
 #- title: EXHIBIT & SPONSOR 
 #  items:
 #     - title: Exhibitor & Sponsorship Prospectus 
