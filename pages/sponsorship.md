@@ -8,7 +8,7 @@ permalink: /sponsorship/
 
 <p align="center">
 <p>
-  <h2 align="center">If you are interested in being a sponsor please read the <a href="www.basconf.org/assets/files/OWASP%20BASC%202026%20Sponsorship%20Kit.pdf">SPONSORSHOP KIT</a> and fill the form below:  
+  <h2 align="center">If you are interested in being a sponsor please read the <a href="/assets/files/OWASP%20BASC%202026%20Sponsorship%20Kit.pdf">SPONSORSHOP KIT</a> and fill the form below:  
   </h2>
 </p>
 <center>
